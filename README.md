@@ -17,7 +17,7 @@ The COVID-19 App is used to monitor the number of coronavirus infections worldwi
 
 The big advantage of the application is also the possibility of exporting reports to the selected format: PDF, MS Word, PowerPoint, or sending the report by e-mail
 
-## Installation
+## Lauching the app
 
 To launch the application, download the Covid_19App.xlsm file and remember to enable macros in Excel.
 

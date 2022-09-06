@@ -26,13 +26,13 @@ The dataset refreshes each time the application is opened and comes from the pag
 
 ## Methods
 
-Main sheet (REPORT/REPORT):
+Main sheet (REPORT):
 
 1. The "Indicators_general1" module contains a macro that calculates basic statistics for the general data (REPORT/REPORT sheet).
 2. The "Settings" module contains macros for operating the settings panel.
 3. The "Calendar_general" module contains a macro for operating the calendar.
 
-COUNTRY/COUNTRY sheet:
+COUNTRY sheet:
 
 1. The "Metrics" module contains a macro which, using the VLOOKUP function, completes a metric for the country selected by the user.
 2. The "Indicators_countries" module contains a macro which calculates the infection rates for the country selected by the user

@@ -23,6 +23,7 @@ When the application opens, the user interface appears, where we can select the 
 ## Data
 
 The app uses dynamic data pulled into Excel by making API calls with Power Query. The dataset refreshes each time user opens the app
+
 API: [click](https://github.com/M-Media-Group/Covid-19-API)
 
 ## Methods

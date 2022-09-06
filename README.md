@@ -5,6 +5,8 @@ The authors of the application are: Natalia Graczyk, Karolina Ogierman, Wojciech
 
 The app was selected as one of the two best apps in the class and was featured on the Labmasters website as an accolade: [click](https://labmasters.pl/covid_19app/)
 
+![image](https://github.com/nataliagraczyk/covidapp-vba/tree/main/templates/main_report.jpg?raw=true)
+
 ## Project Objective
 
 The COVID-19 App is used to monitor the number of coronavirus infections worldwide. It is fully interactive and allows the user to freely customize the generated report by selecting: 

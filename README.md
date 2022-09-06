@@ -24,5 +24,21 @@ When the application opens, the user interface appears, where we can select the 
 
 The dataset refreshes each time the application is opened and comes from the page: [click](https://github.com/M-Media-Group/Covid-19-API)
 
+## Methods
 
+Main sheet (REPORT/REPORT):
+
+1. The "Indicators_general1" module contains a macro that calculates basic statistics for the general data (REPORT/REPORT sheet).
+2. The "Settings" module contains macros for operating the settings panel.
+3. The "Calendar_general" module contains a macro for operating the calendar.
+
+COUNTRY/COUNTRY sheet:
+
+1. The "Metrics" module contains a macro which, using the VLOOKUP function, completes a metric for the country selected by the user.
+2. The "Indicators_countries" module contains a macro which calculates the infection rates for the country selected by the user
+3. The "Graphs" module and the "Graphs_report" module contain macros which substitute the relevant series into the graphs
+4. The 'Word_Record' and 'Powerpoint_Record' modules contain macros that generate reports in the appropriate format.
+5. The "Mail" module contains a macro which sends a PDF report for a selected country to a specified e-mail address
+6. The "Mail_opinion" module contains a macro which is responsible for sending a covidien opinion added by the user to an email address
+7. The "ShowUF" module is an auxiliary module which is used to show selected UserForms
 

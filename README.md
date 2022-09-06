@@ -23,7 +23,7 @@ To launch the application, download the Covid_19App.xlsm file and remember to en
 
 When the application opens, the user interface appears, where we can select the day of the report, change the application settings or proceed to generate the report. To generate the report, simply select the continent and country and then specify in which form the report is to be saved.
 
-To see a detailed description of the application's functionality, go to the instruction: [instruction](templates/instruction.pdf)
+To see a detailed description of the application's functionality, go to the instruction: [click](templates/instruction.pdf)
 
 ## Data
 

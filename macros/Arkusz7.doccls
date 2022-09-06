@@ -1,0 +1,5 @@
+﻿Private Sub CB_Indicator_Change()
+
+    Call WykresyKrajeANG
+
+End Sub

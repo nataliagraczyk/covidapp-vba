@@ -1,0 +1,5 @@
+﻿Private Sub CB_Wskaznik_Change()
+
+    Call WykresyKrajePL
+
+End Sub

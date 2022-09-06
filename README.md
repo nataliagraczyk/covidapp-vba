@@ -5,7 +5,8 @@ The authors of the application are: Natalia Graczyk, Karolina Ogierman, Wojciech
 
 The app was selected as one of the two best apps in the class and was featured on the Labmasters website as an accolade: [click](https://labmasters.pl/covid_19app/)
 
-![image](https://github.com/nataliagraczyk/covidapp-vba/tree/main/templates/main_report.jpg?raw=true)
+
+![image](templates/main_report.jpg)
 
 ## Project Objective
 
